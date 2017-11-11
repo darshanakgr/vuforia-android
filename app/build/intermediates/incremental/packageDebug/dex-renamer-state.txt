@@ -1,0 +1,7 @@
+#Thu Nov 09 12:28:33 IST 2017
+base.0=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4bf26c1d29f5c59d059d6238dde6e0f5e0d74ef6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddcebbbd03c4d86503c630a10a7fecb8d8b2116b\\classes.dex
+base.1=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddcebbbd03c4d86503c630a10a7fecb8d8b2116b
+file.0=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4bf26c1d29f5c59d059d6238dde6e0f5e0d74ef6\\classes.dex

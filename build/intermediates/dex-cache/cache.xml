@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\drox2014\Desktop\Vuforia Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\drox2014\Desktop\Vuforia Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4bf26c1d29f5c59d059d6238dde6e0f5e0d74ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drox2014\AppData\Local\Android\vuforia-sdk\build\java\vuforia\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3b41c5bc11847dafdd40be6ec904db2f54b332a">
+        <dex dex="C:\Users\drox2014\Desktop\Vuforia Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_f5e80d90268919f1fdb58988be4c2101eaad18df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drox2014\Desktop\Vuforia Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="882906e8837697145eddde992aed5067cf802935">
+        <dex dex="C:\Users\drox2014\Desktop\Vuforia Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ddcebbbd03c4d86503c630a10a7fecb8d8b2116b\classes.dex" />
+    </item>
+
+</items>

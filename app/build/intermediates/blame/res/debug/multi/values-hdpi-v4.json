@@ -1,0 +1,20 @@
+[
+    {
+        "outputFile": "C:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\drox2014\\.android\\build-cache\\b1bc0951d9948a18eb4be5a69944a6af74e5ceee\\output\\res\\values-hdpi\\values-hdpi.xml"
+                }
+            }
+        ]
+    }
+]

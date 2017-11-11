@@ -1,0 +1,22 @@
+#Wed Nov 08 01:00:29 IST 2017
+renamed.6=classes3.dex
+renamed.5=classes7.dex
+renamed.4=classes2.dex
+renamed.3=classes5.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes6.dex
+base.6=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d715c9d38639f6e1d1e478f1cf6fb1af1afd01c7
+base.5=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Vuforia_f5e80d90268919f1fdb58988be4c2101eaad18df
+base.4=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d3347b1d397e4335ea1e7cdd3045bbbee66e8568
+base.3=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_c063aee197b8a9da5d642d39ddb82a8cb9d438cf
+base.2=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_b41ddb3156bc0377e9b1ec9b90204ef2fc74b197
+base.1=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4a984b77319e64f72599b3dd573f39582ab1bb6f
+base.0=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_0513cb967c262cf5d1781ba9422ff396f3733fa3
+file.6=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d715c9d38639f6e1d1e478f1cf6fb1af1afd01c7\\classes.dex
+file.5=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Vuforia_f5e80d90268919f1fdb58988be4c2101eaad18df\\classes.dex
+file.4=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d3347b1d397e4335ea1e7cdd3045bbbee66e8568\\classes.dex
+file.3=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_c063aee197b8a9da5d642d39ddb82a8cb9d438cf\\classes.dex
+file.2=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_b41ddb3156bc0377e9b1ec9b90204ef2fc74b197\\classes.dex
+file.1=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4a984b77319e64f72599b3dd573f39582ab1bb6f\\classes.dex
+file.0=C\:\\Users\\drox2014\\Desktop\\Vuforia Sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_0513cb967c262cf5d1781ba9422ff396f3733fa3\\classes.dex
